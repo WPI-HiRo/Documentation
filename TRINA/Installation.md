@@ -1,6 +1,5 @@
 [TOC]
 
-[$ROS_variable test_code stuff $]
 
 ## Reflex SF
 
