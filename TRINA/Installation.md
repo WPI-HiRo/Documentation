@@ -1,8 +1,6 @@
 [TOC]
 
-<span>
-$ROS_variable test_code stuff $
-  </span>
+[$ROS_variable test_code stuff $]
 
 ## Reflex SF
 
