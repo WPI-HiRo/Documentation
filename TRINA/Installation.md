@@ -132,7 +132,9 @@ in the ./Python directory.
 __Solution__:
 
 ```
-Add ${ROS_WS}/devel/include" to the "INCLUDE_DIRECTORIES" of  "ebolabot library: real robot". Due to the updated reflex sf ros package, "reflex_msgs/Command.h" only exists in "${ROS_WS}/devel/include"
+Add ${ROS_WS}/devel/include" to the "INCLUDE_DIRECTORIES" of  "ebolabot library: real robot". 
+
+Due to the updated reflex sf ros package, "reflex_msgs/Command.h" only exists in "${ROS_WS}/devel/include"
 ```
 
 
