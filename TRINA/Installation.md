@@ -94,12 +94,12 @@ __Solution__:
   FIND_PACKAGE(PNG)
 * Comment out "FFmpeg", or refer to https://gist.github.com/royshil/6318407 for a fix
 * Add to INCLUDE_DIRECTORIES
-```
 
+```text
 Add "${ROS_WS}/devel/include" to the "INCLUDE_DIRECTORIES" of  "ebolabot library: real robot". 
 Due to the updated reflex sf ros package, "reflex_msgs/Command.h" only exists in "${ROS_WS}/devel/include"
-
 ```
+
 #### Compile SSPP
 __Path__ = /home/trina/iml-internal/SSPP
 __Compile__:
